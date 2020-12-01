@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Anjali
 #### I am a sophomore at Indira Gandhi Delhi Technical University for Women
-![I am a sophomore at Indira Gandhi Delhi Technical University for Women]
 
 I am an enthusiast learner , always looking forward for opportunities that will not only enhance my skills but also help me realize my passion deeper
 
