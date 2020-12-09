@@ -9,10 +9,10 @@ I am an enthusiast learner , always looking forward for opportunities that will 
 
 
 - 🔭 I’m currently working on https://github.com/pikachu28/Gender-Age-Detection-By-OpenCV 
-- 🌱 I’m currently learning https://github.com/pikachu28/ObjectDetection 
+- 🌱 I’m currently learning Computer Vision and Machine Learning
 - 👯 I’m looking to collaborate on https://github.com/pikachu28/BollywoodMovieRevenue_Prediction 
 - 🤔 I’m looking for help with https://github.com/pikachu28/Gender-Age-Detection-By-OpenCV 
-- 💬 Ask me about https://github.com/pikachu28/Gender-Age-Detection-By-OpenCV 
+- 💬 Ask me about Web Developement and Machine learning  
 - 📫 How to reach me: anjalisinghgsm@gmail.com 
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I am always looking forward for collaboration and Open Source Contribution 
